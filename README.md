@@ -1,16 +1,15 @@
 ## Hi there, I'm Joshua Kotake 👋 
 
 ## 🌱 About Me
-- 👨‍💻 I am a 2nd year **Computer Science** student at **UNSW** currently learning **Full Stack Development**.
-- 🌍 I'm passionate about creating user-friendly applications that are innovative, scalable, and impactful.
-- 🎯 My current goal is to improve my problem-solving skills on **LeetCode** and build responsive websites using **JavaScript/TypeScript**.
-- 📫 You can reach me at: **joshua.kotake@gmail.com or www.linkedin.com/in/joshua-kotake**
+- 👨‍💻 I'm a 2nd year **Computer Science** student at **UNSW** currently learning **Full Stack Development**.
+- 🌍 Embarking on a mission to create user-friendly applications that are innovative, scalable, and impactful.
+- 🎯 My current goal is to improve my problem-solving skills on **LeetCode** and build **responsive websites**.
+- 📫 Contact me: **joshua.kotake@gmail.com or www.linkedin.com/in/joshua-kotake**
 
 ## 🛠️ My Skills
-- **Languages**: Python, C, JavaScript, TypeScript
-- **Frameworks**: React, Node.js, Express
+- **Languages**: Python, C, HTML5, CSS3, JavaScript, TypeScript
+- **Frameworks**: React, Node.js, Express, Bootstrap
 - **Databases**: MongoDB, MySQL
-- **Tools**: Git, VSCode, Postman
 
 <!--
 **joshuakotake/joshuakotake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
