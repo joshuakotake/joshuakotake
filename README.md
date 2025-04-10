@@ -1,4 +1,4 @@
-## Welcome to Joshua's GitHub Profile 👋
+## Hi there, I'm Joshua Kotake 👋 
 
 ## 🌱 About Me
 - 👨‍💻 I am a 2nd year **Computer Science** student at **UNSW** currently learning **Full Stack Development**.
