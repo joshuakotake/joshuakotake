@@ -4,7 +4,7 @@
 - 👨‍💻 I'm a 2nd year **Computer Science** student at **UNSW** currently learning **Full Stack Development**.
 - 🌍 Embarking on a mission to create user-friendly applications that are innovative, scalable, and impactful.
 - 🎯 My current goal is to improve my problem-solving skills on **LeetCode** and build **responsive websites**.
-- 📫 Contact me: **joshua.kotake@gmail.com or www.linkedin.com/in/joshua-kotake**
+- 📫 Feel free to contact me at: **joshua.kotake@gmail.com or www.linkedin.com/in/joshua-kotake**
 
 ## 🛠️ My Skills
 - **Languages**: Python, C, HTML5, CSS3, JavaScript, TypeScript
