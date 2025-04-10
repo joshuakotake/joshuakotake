@@ -1,9 +1,9 @@
 ## Welcome to Joshua's GitHub Profile 👋
 
 ## 🌱 About Me
-- 👨‍💻 I am a 2nd year **Computer Science** student at **University of New South Wales** currently learning **Full Stack Development**.
+- 👨‍💻 I am a 2nd year **Computer Science** student at **UNSW** currently learning **Full Stack Development**.
 - 🌍 I'm passionate about creating user-friendly applications that are innovative, scalable, and impactful.
-- 🎯 My current goal is to improve my problem-solving skills on **LeetCode** and build responsive websites using **JavaScript/TypeScript**.
+- 🎯 My current goal is to improve my problem-solving skills on **LeetCode** and build responsive websites using **JS/TS**.
 - 📫 You can reach me at: **joshua.kotake@gmail.com or www.linkedin.com/in/joshua-kotake**
 
 ## 🛠️ My Skills
