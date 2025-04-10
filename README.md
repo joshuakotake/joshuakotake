@@ -1,4 +1,16 @@
-## Hi there 👋
+## Welcome to Joshua's GitHub Profile 👋
+
+## 🌱 About Me
+- 👨‍💻 I am a 2nd year **Computer Science** student at **University of New South Wales** currently learning **Full Stack Development**.
+- 🌍 I'm passionate about creating user-friendly applications that are innovative, scalable, and impactful.
+- 🎯 My current goal is to improve my problem-solving skills on **LeetCode** and build responsive websites using **JavaScript/TypeScript**.
+- 📫 You can reach me at: **joshua.kotake@gmail.com or www.linkedin.com/in/joshua-kotake**
+
+## 🛠️ My Skills
+- **Languages**: Python, C, JavaScript, TypeScript
+- **Frameworks**: React, Node.js, Express
+- **Databases**: MongoDB, MySQL
+- **Tools**: Git, VSCode, Postman
 
 <!--
 **joshuakotake/joshuakotake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
